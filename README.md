@@ -1,4 +1,4 @@
-# Parallel-BFS Implementation in C/C++
+# Parallel-BFS Implementation 
 
 ## Overview
 
